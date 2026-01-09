@@ -1,11 +1,6 @@
 # 🚀 Bem‑vindo ao meu GitHub!
 
 <p align="center">
-  <!-- GitHub Stats e Badges Dinâmicos -->
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=thiagohlz&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=thiagohlz&layout=compact" />
-</p>
-
 <p align="center">
   <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=thiagohlz&theme=flat" />
   <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=thiagohlz&theme=dark" />
