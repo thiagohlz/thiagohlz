@@ -1,10 +1,6 @@
 # 🚀 Bem‑vindo ao meu GitHub!
 
 <p align="center">
-<p align="center">
-  <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=thiagohlz&theme=flat" />
-  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=thiagohlz&theme=dark" />
-</p>
 
 <p align="center">
   <img alt="Stars" src="https://img.shields.io/github/stars/thiagohlz?style=for-the-badge&logo=github" />
