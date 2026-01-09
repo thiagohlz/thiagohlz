@@ -5,11 +5,9 @@
 <p align="center">
   <img alt="Stars" src="https://img.shields.io/github/stars/thiagohlz?style=for-the-badge&logo=github" />
   <img alt="Followers" src="https://img.shields.io/github/followers/thiagohlz?style=for-the-badge&logo=github" />
-  <img alt="Repositórios" src="https://img.shields.io/github/repos/thiagohlz?style=for-the-badge&logo=github" />
-  <img alt="License" src="https://img.shields.io/github/license/thiagohlz/SEU_REPO?style=for-the-badge" />
 </p>
 
-Olá! 👋 Eu sou **ThiagoHLZ** — desenvolvedor apaixonado por código, open source e tecnologia! 🚀  
+Olá! 👋 Eu sou **Thiago** — desenvolvedor apaixonado por código, open source e tecnologia! 🚀  
 Este perfil reúne minhas estatísticas, badges e principais projetos.  
 
 ---
