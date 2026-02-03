@@ -35,7 +35,7 @@ Este perfil reúne minhas estatísticas, badges e principais projetos.
 ## 📫 Me encontre por aí
 
 <p align="center">
-  <a href="mailto:t12192084@gmail.com">
+  <a href="mailto:thiago.elias.code@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/thiagohlz">
