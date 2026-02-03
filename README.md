@@ -15,7 +15,7 @@ Este perfil reúne minhas estatísticas, badges e principais projetos.
 ## 💻 Sobre mim
 
 - 🌱 Estou sempre aprendendo e explorando novas tecnologias  
-- 🔭 Desenvolvo projetos com foco em **front‑end, back‑end e automações**  
+- 🔭 Desenvolvo projetos com foco em **back‑end e automações**  
 - 👨‍💻 Compartilho código e ferramentas úteis na comunidade  
 - 📫 Me encontre abaixo!
 
